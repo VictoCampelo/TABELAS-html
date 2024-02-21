@@ -1,0 +1,19 @@
+table, tr, td, th {
+    border: 1px solid #000;
+}
+tfoot{
+    font-size: 25px;
+    background-color: #a9a9a9;
+    text-align: center;
+    
+}
+tfoot tr td {
+    padding: 10px;
+
+}
+thead{
+    font-size: 25px;
+    background-color: #a9a9a9;
+    text-align: center;
+    
+}
